@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 B2 - Milan Novák - test commit
-	Další test
-=======
-B2 - Milan NovÃ¡k - test commit
-test 2
->>>>>>> 94c016f830cfcaa28f31a2eb2228aa71d12c251f
