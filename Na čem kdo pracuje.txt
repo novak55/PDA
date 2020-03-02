@@ -1,1 +1,2 @@
 B2 - Milan Novák - test commit
+test 2
