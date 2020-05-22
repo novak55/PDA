@@ -1,0 +1,9 @@
+D:\Moje studium\PDA\UKOL_A\UkolA6\bin\Debug\UkolA6.exe.config
+D:\Moje studium\PDA\UKOL_A\UkolA6\bin\Debug\UkolA6.exe
+D:\Moje studium\PDA\UKOL_A\UkolA6\bin\Debug\UkolA6.pdb
+D:\Moje studium\PDA\UKOL_A\UkolA6\obj\Debug\UkolA6.csprojAssemblyReference.cache
+D:\Moje studium\PDA\UKOL_A\UkolA6\obj\Debug\UkolA6.Form1.resources
+D:\Moje studium\PDA\UKOL_A\UkolA6\obj\Debug\UkolA6.Properties.Resources.resources
+D:\Moje studium\PDA\UKOL_A\UkolA6\obj\Debug\UkolA6.csproj.GenerateResource.cache
+D:\Moje studium\PDA\UKOL_A\UkolA6\obj\Debug\UkolA6.exe
+D:\Moje studium\PDA\UKOL_A\UkolA6\obj\Debug\UkolA6.pdb
