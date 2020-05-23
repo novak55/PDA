@@ -16,5 +16,10 @@ namespace UkolB2
         {
             InitializeComponent();
         }
+
+        private void textBox_Zdroj_TextChanged(object sender, EventArgs e)
+        {
+            textBox_Cil.Text = textBox_Zdroj.Text.ToUpper();
+        }
     }
 }

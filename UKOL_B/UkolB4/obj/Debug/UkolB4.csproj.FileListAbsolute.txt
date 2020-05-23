@@ -1,0 +1,9 @@
+D:\Moje studium\PDA\UKOL_B\UkolB4\bin\Debug\UkolB4.exe.config
+D:\Moje studium\PDA\UKOL_B\UkolB4\bin\Debug\UkolB4.exe
+D:\Moje studium\PDA\UKOL_B\UkolB4\bin\Debug\UkolB4.pdb
+D:\Moje studium\PDA\UKOL_B\UkolB4\obj\Debug\UkolB4.csprojAssemblyReference.cache
+D:\Moje studium\PDA\UKOL_B\UkolB4\obj\Debug\UkolB4.Form1.resources
+D:\Moje studium\PDA\UKOL_B\UkolB4\obj\Debug\UkolB4.Properties.Resources.resources
+D:\Moje studium\PDA\UKOL_B\UkolB4\obj\Debug\UkolB4.csproj.GenerateResource.cache
+D:\Moje studium\PDA\UKOL_B\UkolB4\obj\Debug\UkolB4.exe
+D:\Moje studium\PDA\UKOL_B\UkolB4\obj\Debug\UkolB4.pdb
