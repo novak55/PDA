@@ -1,0 +1,9 @@
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\bin\Debug\UkolC.exe.config
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\bin\Debug\UkolC.exe
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\bin\Debug\UkolC.pdb
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\obj\Debug\UkolC.csprojAssemblyReference.cache
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\obj\Debug\UkolC.Properties.Resources.resources
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\obj\Debug\UkolC.csproj.GenerateResource.cache
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\obj\Debug\UkolC.exe
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\obj\Debug\UkolC.pdb
+D:\Moje studium\PDA\UKOL_C_SeminPrace\UkolC\obj\Debug\UkolC.Form1.resources
